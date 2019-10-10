@@ -1,0 +1,27 @@
+Feito Via GitHub Desktop - Tiago Prata e Bruno Costa
+
+Um dos pontos ruins da versão desktop é a necessidade do pull a cada nova modificação no repositório, desta forma se duas pessoa fazem alterações ao mesmo tempo em um repositório, quando uma delas mandar o push a outra pessoa precisara fazer o pull antes de mandar seu push, desta forma fazendo um merge das modificações. Ja na versão do GitHub na web ao dar o commit, automaticamente ja acontece o push, por isso nao ocorre a necessidade de um pull no passo 9.
+
+
+
+Passo 5.  Versão
+Art1.txt - 1
+Passo 6.  Versão
+Art1.txt - 2
+Art2.txt - 2
+Passo 7.  Versão
+Art1.txt - 3
+Art2.txt - 2
+Art3.txt - 3
+Passo 8.  Versão
+Art1.txt - 4
+Art2.txt - 2
+Passo 9.  Versão
+Art1.txt - 5
+Art2.txt - 2
+Art3.txt - 5
+Passo 10.  Versão
+Art1.txt - 5
+Art2.txt - 2
+Art3.txt - 5
+Documento.txt - 6
